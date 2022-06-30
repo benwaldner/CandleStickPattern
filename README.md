@@ -1,7 +1,8 @@
 Personal notes:
+==================
 Check videos on YouTube as well:
 https://www.youtube.com/watch?v=UvLZ4YdXkKY
-==================
+
 
 CandleStickPattern
 ==================
